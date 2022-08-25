@@ -1,0 +1,15 @@
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\bin\Debug\net5.0\Business_Logic_Layer_Employee.deps.json
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\bin\Debug\net5.0\Business_Logic_Layer_Employee.dll
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\bin\Debug\net5.0\Business_Logic_Layer_Employee.pdb
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\bin\Debug\net5.0\Data_Acess_Layer_Employee.dll
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\bin\Debug\net5.0\Data_Acess_Layer_Employee.pdb
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\obj\Debug\net5.0\Business_Logic_Layer_Employee.csproj.AssemblyReference.cache
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\obj\Debug\net5.0\Business_Logic_Layer_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\obj\Debug\net5.0\Business_Logic_Layer_Employee.AssemblyInfoInputs.cache
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\obj\Debug\net5.0\Business_Logic_Layer_Employee.AssemblyInfo.cs
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\obj\Debug\net5.0\Business_Logic_Layer_Employee.csproj.CoreCompileInputs.cache
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\obj\Debug\net5.0\Business_Logic_Layer_Employee.csproj.CopyComplete
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\obj\Debug\net5.0\Business_Logic_Layer_Employee.dll
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\obj\Debug\net5.0\refint\Business_Logic_Layer_Employee.dll
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\obj\Debug\net5.0\Business_Logic_Layer_Employee.pdb
+C:\.netApi\new_webAPi\Business_Logic_Layer_Employee\obj\Debug\net5.0\ref\Business_Logic_Layer_Employee.dll

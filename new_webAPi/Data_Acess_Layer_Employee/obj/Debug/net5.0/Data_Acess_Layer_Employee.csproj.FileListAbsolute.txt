@@ -1,0 +1,15 @@
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\bin\Debug\net5.0\Data_Acess_Layer_Employee.deps.json
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\bin\Debug\net5.0\Data_Acess_Layer_Employee.runtimeconfig.json
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\bin\Debug\net5.0\Data_Acess_Layer_Employee.runtimeconfig.dev.json
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\bin\Debug\net5.0\Data_Acess_Layer_Employee.dll
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\bin\Debug\net5.0\Data_Acess_Layer_Employee.pdb
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\obj\Debug\net5.0\Data_Acess_Layer_Employee.csproj.AssemblyReference.cache
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\obj\Debug\net5.0\Data_Acess_Layer_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\obj\Debug\net5.0\Data_Acess_Layer_Employee.AssemblyInfoInputs.cache
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\obj\Debug\net5.0\Data_Acess_Layer_Employee.AssemblyInfo.cs
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\obj\Debug\net5.0\Data_Acess_Layer_Employee.csproj.CoreCompileInputs.cache
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\obj\Debug\net5.0\Data_Acess_Layer_Employee.dll
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\obj\Debug\net5.0\refint\Data_Acess_Layer_Employee.dll
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\obj\Debug\net5.0\Data_Acess_Layer_Employee.pdb
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\obj\Debug\net5.0\Data_Acess_Layer_Employee.genruntimeconfig.cache
+C:\.netApi\new_webAPi\Data_Acess_Layer_Employee\obj\Debug\net5.0\ref\Data_Acess_Layer_Employee.dll
